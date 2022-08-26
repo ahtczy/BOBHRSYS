@@ -1,8 +1,8 @@
-package com.bob.service.impl;
+package com.bob.bobhr.service.impl;
 
-import com.bob.entity.Bobmanage;
-import com.bob.mapper.BobmanageMapper;
-import com.bob.service.IBobmanageService;
+import com.bob.bobhr.entity.Bobmanage;
+import com.bob.bobhr.mapper.BobmanageMapper;
+import com.bob.bobhr.service.IBobmanageService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import org.springframework.stereotype.Service;
 

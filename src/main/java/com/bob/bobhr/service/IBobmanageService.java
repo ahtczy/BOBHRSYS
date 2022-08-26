@@ -1,6 +1,6 @@
-package com.bob.service;
+package com.bob.bobhr.service;
 
-import com.bob.entity.Bobmanage;
+import com.bob.bobhr.entity.Bobmanage;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**

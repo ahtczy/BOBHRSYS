@@ -1,4 +1,4 @@
-package com.bob.entity;
+package com.bob.bobhr.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
 import com.baomidou.mybatisplus.annotation.IdType;
@@ -26,7 +26,7 @@ public class Bobmanage implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
-    @TableId(value = "JobNumber", type = IdType.AUTO)
+    @TableId(value = "JobNumber")
     private String JobNumber;
 
     @TableField("Name")
